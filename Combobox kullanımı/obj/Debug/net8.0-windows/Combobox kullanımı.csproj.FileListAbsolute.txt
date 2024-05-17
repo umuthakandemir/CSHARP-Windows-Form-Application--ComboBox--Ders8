@@ -1,0 +1,16 @@
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox_kullanımı.Form1.resources
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox kullanımı.csproj.GenerateResource.cache
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox kullanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox kullanımı.AssemblyInfoInputs.cache
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox kullanımı.AssemblyInfo.cs
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\bin\Debug\net8.0-windows\Combobox kullanımı.exe
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\bin\Debug\net8.0-windows\Combobox kullanımı.deps.json
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\bin\Debug\net8.0-windows\Combobox kullanımı.runtimeconfig.json
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\bin\Debug\net8.0-windows\Combobox kullanımı.dll
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\bin\Debug\net8.0-windows\Combobox kullanımı.pdb
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox kullanımı.dll
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\refint\Combobox kullanımı.dll
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox kullanımı.pdb
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\Combobox kullanımı.genruntimeconfig.cache
+C:\Users\UmutHakanDemir\source\repos\Combobox kullanımı\Combobox kullanımı\obj\Debug\net8.0-windows\ref\Combobox kullanımı.dll
